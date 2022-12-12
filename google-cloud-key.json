@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "laspnet-9e5cc",
+  "private_key_id": "1882b169081a34c273a0105b517ca3d58dca9dc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm+Q2FDu9f8n/c\n3Icdntl7lG3zEkqJkLCfCb+gEPCFTCgfIG0zY4v8ToC2hEOJ5vBiLELaOTK9kY5N\nMJ5Zd1XGOh8WgLrh0rc2Z1P8Ww0GhAiG8MAA/14O79ZwEyJkSMLYXMGjYNO2khLy\nZYi6k8lUcZhpDsplPO3BilNlLcRnHYLdA+iR18n06bPxj1XSW2pSaKkdI9BtCApE\nCJh0uZJDI8MBQ+S72J8AlRmEnLVSjOwsMhG4Z+aSwpTr5Dq3rOe4AyAk+FikcQ33\nkgwQz4lIpdGXK0Gwap+pDjND3f+0701iOIUtTJlEm+0THmyocou02hDCAf06VYq1\ncpzemDU7AgMBAAECggEACNm7C4+tmjkz6YSaTYnN1Fzwm7RKAChhEaUGI8QSGQwJ\nimYryPq2AQM2PmEcurK45jNGEzl5744cwV8E3brTcJpEa0Bv531wWbFjbxpybSMo\nLThArSzcEvryiRFH6ZHpG2fbRGo4U/1ChNe4m3nZmktv0o3GplQdntHSttJqDonD\nfG0lu6+3Em2m+7WMFPfedyenKp7ztFfAGif6YRhvebi+oX3X5jgeEmP6wr/NpJNh\n+ObBrxRPFNljjkoqLURf9vtp1+aVLlz0wZ/ZutcFRbSBbQhKFnes9cKImGhIsFuj\nssd3g71yivglZjxocrkXpAWH2Avh+cC6y5JZxsE63QKBgQDWbBlJF10LsGJ9qJu5\nk9InKBr1qBCJhHzIEY2R37qNvrOXyaR0ceHTJbtUp8TR29YBqzipOMSR6CwYRX75\n83FDIegVO4dRg6z2Pd489TRcFGivtFodOP1wwT9DbcpgQLrTE+3Wy7gB5ooTFOhD\neW+QbF//lup+VrdcN5b/rin0RQKBgQDHWZH+kWbs1OPdLL/LXs4u6PP0gj7Xx+zu\ndp3qyCD18F7/KvYvLQNwGwJ2HcNJam4qF8i3AcHaSUC23gF8gBloR0yQwOcwmNcF\n70g9NGK7K7szVht6deV4GbleFiZoXqAXVCmrVQsCN6MDcTNMPW2W9xToXGBQ2FcD\nsK79yB3bfwKBgB8Chy2g6V31ZmkR52ORU0VCcZOxeKLKvFka4MSF/K7fM43yJYyJ\no8Urocn+cWKATpTzNECU6yjG0Qm5k0GGyYyR7MSVVV6ekncSP3/FXosqkHFIvfeX\n9F9IM2QHDsuY0OwR58W2tKfhtXpI/cY0W8QhSEjohIU8+Uum5nmXsI2ZAoGBAKNS\nqf7zp2yvOoSRTg1Tff8G0h/nuY7V+DKisdyR3BdCuMG7s/iQm3l0V37oAYAbl2gb\nFlGBOg4Z59AqcPNMjARYLc2GjaLOBZSSJxAl5CHOwU9c46RgBQFxqeIAqbTmmaij\nRoRdZ2iIpqCCVPHIfgmqItIAJNT3ecrHLYc0NeoHAoGAK0dS6Ya0wqDejtWFsGaR\nILQbE6OTP/9oxMhHLgnoFOHC0dIZjHoMs9Y3jPvrqvNmB2OvPLA+Z0oL6S/b47XX\nBxYoGXXQ4lGCF+1AqXEMH/tqVsE/Qsq8a9U0ctmhS/3SaZCc18eKNLLq3fUTe26E\nH0gCm9t/Hg1URN3u9qUQViY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "laspnet-backend-api@laspnet-9e5cc.iam.gserviceaccount.com",
+  "client_id": "115456773262437170061",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laspnet-backend-api%40laspnet-9e5cc.iam.gserviceaccount.com"
+}

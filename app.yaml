@@ -1,0 +1,6 @@
+runtime: nodejs10
+service: second 
+
+env_variables:
+  NODE_ENV: "production"
+  PORT: 5000
